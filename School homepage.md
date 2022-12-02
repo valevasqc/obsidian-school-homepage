@@ -10,13 +10,13 @@ banner_x: 0.5
 ___
 > [!colu3] 
 > > [!blank]
-> > `fas:PenNib` [[Subjects]]
+> > 🖊️[[Subjects]]
 >
 > > [!blank]
-> > `fas:Paperclip` [[Todoist weekly|Assignments]]
+> > 📎[[Todoist weekly|Assignments]]
 > 
 > > [!blank]
-> > `fas:Clock` [[Schedule]]
+> > 🕖[[Schedule]]
 ___
 ## General info
 ### Important dates
@@ -46,4 +46,5 @@ ___
 ![[Schedule]]
 ___
 ### Assignments
+
 ![[Todoist weekly|Assignments]]
